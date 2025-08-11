@@ -1,0 +1,78 @@
+header{
+    background-color:rgb(80, 57, 214);
+    padding: 20px;
+} 
+body{
+    background-color:rgb(81, 179, 218); 
+} 
+h1{
+    color: aliceblue;
+}
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color: rgb(18, 150, 77);
+}
+img{
+    border-radius: 10%;
+}
+
+#home{
+    text-align: center;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+}
+#about{
+    text-align: center;
+}
+#about {
+  border-top-style: dotted;
+  border-right-style: dottedb;
+  border-bottom-style: dotted;
+  border-left-style: dotted;
+}
+#about h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#skills li{
+   color: brown;
+}
+
+table,tr,th,td{
+    border: 2px solid rgb(196, 75, 75);
+    border-collapse: collapse;
+}
+table th{
+    background-color: yellowgreen;
+}
+table td{
+    background-color: rgb(233, 64, 196);
+}
+
+#about h1{
+    color: rgb(199, 42, 133);
+}
+#about{
+    padding: 30px;
+}
+#about div{
+    padding: 20px;
+}
+body{
+    background-color: rgb(193, 231, 131);
+}
